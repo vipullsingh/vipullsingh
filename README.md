@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML,CSS, javascript,Express,MongoDB**
 
-- 📫 How to reach me **vipul.kr.vksvipullsingh@gmail.com**
+- 📫 How to reach me **vipul.kr.vks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
