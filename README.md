@@ -1,34 +1,36 @@
+Hi there, I'm [Vipul Kumar] 👋
+Passionate full-stack developer with a love for programming and problem-solving. I enjoy building applications from scratch, working with the latest technologies, and constantly learning new skills.
+
+📫 How to reach me
+LinkedIn: [https://www.linkedin.com/in/vipul-kumar-931a021b8/](https://www.linkedin.com/in/vipul-kumar-931a021b8)
+🔭 My Portfolio
+You can check out my portfolio here: vipullsingh.github.io
+
+🚀 My Projects
+Here are a few projects I've worked on recently:
+
+[Buddy Cart](https://github.com/vipullsingh/dirty-quilt-1530)
+BuddyCart is a group project that was developed using HTML, CSS, JavaScript, and JSON. It is an e-commerce platform that allows users to shop for their favorite items online. The project's primary goal was to provide a user-friendly interface that would allow customers to easily browse and purchase items.
+[Live Demo](https://dirty-quilt-1530.netlify.app/)
+[Repository](https://github.com/vipullsingh/dirty-quilt-1530)
+[QRify](https://github.com/vipullsingh/QRify)
+The QR Code generator and management platform is a business and marketing tool that allows businesses to create custom QR codes for custom payments. It is an online platform that enables users to generate free custom QR codes quickly and easily.
+
+[Live Demo](https://vipullsingh.github.io/QRify/qrcode.html)
+[Repository](https://github.com/vipullsingh/QRify)
+[ShoeKeeper](https://github.com/vipullsingh/ShoeKeeper)
+The project at https://shoekeepermasai.netlify.app/ is an e-commerce website for purchasing shoes. The website features a clean and modern design, with easy navigation for users to browse through different categories of shoes such as women, men, kids and accessories. Users can also search for specific products using the search bar provided on the homepage. The website also has a shopping cart feature, allowing users to add items to their cart and proceed to checkout. Additionally, the website includes a section for rewards and offers, as well as a feature to find stores nearby. The website is built using HTML, CSS, JavaScript and other web development technologies. The website is hosted on Netlify, a platform for building and deploying web applications. This website is a sample and not an actual e-commerce website.
+
+[Live Demo](https://shoekeepermasai.netlify.app/)
+[Repository](https://github.com/vipullsingh/ShoeKeeper)
+🌱 I’m currently learning
+[MongoDB](Link to Resource)
+[ExpressJS](Link to Resource)
+[ReactJS](Link to Resource)
+[NodeJS](Link to Resource)
+📚 What I'm currently reading
+[Book Name](Link to Book)
+[Book Name](Link to Book)
 
 
-<h1 align="center">Hi 👋, I'm Vipul Kumar</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipullsingh&label=Profile%20views&color=0e75b6&style=flat" alt="vipullsingh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipullsingh" alt="vipullsingh" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966"/>
-
-- 🔭 I’m currently working on **Node Backend Development**
-
-- 🌱 I’m currently learning **Node,Express,MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://vipullsingh.github.io/](https://vipullsingh.github.io/)
-
-- 💬 Ask me about **HTML,CSS, javascript,Express,MongoDB**
-
-- 📫 How to reach me **vipul.kr.vks@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kavita sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavita sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/kavita_sharma.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavita_sharma.21" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipullsingh&show_icons=true&locale=en&layout=compact" alt="vipullsingh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipullsingh&show_icons=true&locale=en" alt="vipullsingh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipullsingh&" alt="vipullsingh" /></p>
