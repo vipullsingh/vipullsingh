@@ -36,7 +36,6 @@
 <p align="center">
 <a href="https://codepen.io/vipullsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@csam202003" height="30" width="40" /></a>
 <a href="https://instagram.com/vipullsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luvlite" height="30" width="40" /></a>
-</p>
 <a href="https://www.linkedin.com/in/vipul-kumar-931a021b8/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="@luvlite" height="30" width="40" /></a>
 </p>
     <h3>Tropies:</h3>
