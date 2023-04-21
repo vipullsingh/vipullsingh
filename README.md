@@ -6,7 +6,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;Curious+to+know+new+things;&color=cyan&center=true" />
 </div>
  <div align="center" width="60%">
-<img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/>
+<img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="gif"/>
 </div>
     
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p></br>
