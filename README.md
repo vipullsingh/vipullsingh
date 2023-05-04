@@ -24,7 +24,7 @@
 
 
 
-- 💬 Ask me about HTML, CSS, JavaScript, React & DSA
+- 💬 Ask me about HTML, CSS, JavaScript, ReactJS, NodeJS & DSA
 
 - 📫 How to reach me vipul.kr.vks@gmail.com
 
